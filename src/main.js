@@ -6,4 +6,4 @@ const App = createApp(app)
 
 App.component('List', list)
 
-App.mount("#app")1
+App.mount("#app")
